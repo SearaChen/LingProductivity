@@ -1,0 +1,557 @@
+------------------------ cluster #0: -------------------------- 
+ab-reagir
+ab-reagirdes
+ab-reagirem
+ab-reagires
+ab-reagirmos
+------------------------ cluster #1: -------------------------- 
+ab-reagisse
+ab-reagissem
+ab-reagisses
+------------------------ cluster #2: -------------------------- 
+ab-reagísseis
+ab-reagíssemos
+ab-rogásseis
+ab-rogássemos
+------------------------ cluster #3: -------------------------- 
+ab-reaja
+ab-reajais
+ab-reajam
+ab-reajamos
+ab-reajas
+------------------------ cluster #4: -------------------------- 
+ab-rogar
+ab-rogardes
+ab-rogarem
+ab-rogares
+ab-rogarmos
+------------------------ cluster #5: -------------------------- 
+ab-rogasse
+ab-rogassem
+ab-rogasses
+------------------------ cluster #6: -------------------------- 
+ab-rogue
+ab-rogueis
+ab-roguem
+ab-roguemos
+ab-rogues
+------------------------ cluster #7: -------------------------- 
+abacharelar
+abacharelardes
+abacharelarem
+abacharelares
+abacharelarmos
+------------------------ cluster #8: -------------------------- 
+abacharelasse
+abacharelassem
+abacharelasses
+------------------------ cluster #9: -------------------------- 
+abacharele
+abachareleis
+abacharelem
+abacharelemos
+abachareles
+------------------------ cluster #10: -------------------------- 
+abacharelásseis
+abacharelássemos
+abainhasse
+abainhassem
+abainhasses
+abainhásseis
+abainhássemos
+abaixasse
+abaixassem
+abaixasses
+abaixásseis
+abaixássemos
+abastecesse
+abastecessem
+abastásseis
+abastássemos
+abatêsseis
+abatêssemos
+aberrásseis
+aberrássemos
+------------------------ cluster #11: -------------------------- 
+abacinar
+abacinardes
+abacinarem
+abacinares
+abacinarmos
+------------------------ cluster #12: -------------------------- 
+abacinasse
+abacinassem
+abacinasses
+abacinásseis
+abacinássemos
+------------------------ cluster #13: -------------------------- 
+abacine
+abacineis
+abacinem
+abacinemos
+abacines
+------------------------ cluster #14: -------------------------- 
+abafar
+abafardes
+abafarem
+abafares
+abafarmos
+------------------------ cluster #15: -------------------------- 
+abafasse
+abafassem
+abafasses
+------------------------ cluster #16: -------------------------- 
+abafe
+abafeis
+abafem
+abafemos
+abafes
+------------------------ cluster #17: -------------------------- 
+abafásseis
+abafássemos
+------------------------ cluster #18: -------------------------- 
+abainhar
+abainhardes
+abainharem
+abainhares
+abainharmos
+------------------------ cluster #19: -------------------------- 
+abainhe
+abainheis
+abainhem
+abainhemos
+abainhes
+------------------------ cluster #20: -------------------------- 
+abaixar
+abaixardes
+abaixarem
+abaixares
+abaixarmos
+------------------------ cluster #21: -------------------------- 
+abaixe
+abaixeis
+abaixem
+abaixemos
+abaixes
+------------------------ cluster #22: -------------------------- 
+abalar
+abalardes
+abalarem
+abalares
+abalarmos
+------------------------ cluster #23: -------------------------- 
+abalasse
+abalassem
+abalasses
+------------------------ cluster #24: -------------------------- 
+abale
+abaleis
+abalem
+abalemos
+abales
+------------------------ cluster #25: -------------------------- 
+abalienar
+abalienardes
+abalienarem
+abalienares
+abalienarmos
+------------------------ cluster #26: -------------------------- 
+abalienasse
+abalienassem
+abalienasses
+------------------------ cluster #27: -------------------------- 
+abaliene
+abalieneis
+abalienem
+abalienemos
+abalienes
+------------------------ cluster #28: -------------------------- 
+abalienásseis
+abalienássemos
+abalásseis
+abalássemos
+abandásseis
+abandássemos
+abarrotásseis
+abarrotássemos
+abicásseis
+abicássemos
+abirritásseis
+abirritássemos
+abjurásseis
+abjurássemos
+------------------------ cluster #29: -------------------------- 
+abalroar
+abalroardes
+abalroarem
+abalroares
+abalroarmos
+------------------------ cluster #30: -------------------------- 
+abalroasse
+abalroassem
+abalroasses
+------------------------ cluster #31: -------------------------- 
+abalroe
+abalroeis
+abalroem
+abalroemos
+abalroes
+------------------------ cluster #32: -------------------------- 
+abalroásseis
+abalroássemos
+------------------------ cluster #33: -------------------------- 
+abanar
+abanardes
+abanarem
+abanares
+abanarmos
+------------------------ cluster #34: -------------------------- 
+abanasse
+abanassem
+abanasses
+abanásseis
+abanássemos
+------------------------ cluster #35: -------------------------- 
+abandar
+abandardes
+abandarem
+abandares
+abandarmos
+------------------------ cluster #36: -------------------------- 
+abandasse
+abandassem
+abandasses
+------------------------ cluster #37: -------------------------- 
+abande
+abandeirásseis
+abandeirássemos
+abandeis
+abandem
+abandemos
+abandes
+------------------------ cluster #38: -------------------------- 
+abandeirar
+abandeirardes
+abandeirarem
+abandeirares
+abandeirarmos
+------------------------ cluster #39: -------------------------- 
+abandeirasse
+abandeirassem
+abandeirasses
+------------------------ cluster #40: -------------------------- 
+abandeire
+abandeireis
+abandeirem
+abandeiremos
+abandeires
+------------------------ cluster #41: -------------------------- 
+abandonar
+abandonardes
+abandonarem
+abandonares
+abandonarmos
+------------------------ cluster #42: -------------------------- 
+abandonasse
+abandonassem
+abandonasses
+abandonásseis
+abandonássemos
+------------------------ cluster #43: -------------------------- 
+abandone
+abandoneis
+abandonem
+abandonemos
+abandones
+------------------------ cluster #44: -------------------------- 
+abane
+abaneis
+abanem
+abanemos
+abanes
+------------------------ cluster #45: -------------------------- 
+abarbar
+abarbardes
+abarbarem
+abarbares
+abarbarmos
+------------------------ cluster #46: -------------------------- 
+abarbasse
+abarbassem
+abarbasses
+abarbásseis
+abarbássemos
+------------------------ cluster #47: -------------------------- 
+abarbe
+abarbeis
+abarbem
+abarbemos
+abarbes
+------------------------ cluster #48: -------------------------- 
+abarcar
+abarcardes
+abarcarem
+abarcares
+abarcarmos
+------------------------ cluster #49: -------------------------- 
+abarcasse
+abarcassem
+abarcasses
+abarcásseis
+abarcássemos
+------------------------ cluster #50: -------------------------- 
+abarque
+abarqueis
+abarquem
+abarquemos
+abarques
+------------------------ cluster #51: -------------------------- 
+abarrotar
+abarrotardes
+abarrotarem
+abarrotares
+abarrotarmos
+------------------------ cluster #52: -------------------------- 
+abarrotasse
+abarrotassem
+abarrotasses
+------------------------ cluster #53: -------------------------- 
+abarrote
+abarroteis
+abarrotem
+abarrotemos
+abarrotes
+------------------------ cluster #54: -------------------------- 
+abastar
+abastardes
+abastarem
+abastares
+abastarmos
+------------------------ cluster #55: -------------------------- 
+abastardar
+abastardardes
+abastardarem
+abastardares
+abastardarmos
+------------------------ cluster #56: -------------------------- 
+abastardasse
+abastardassem
+abastardasses
+------------------------ cluster #57: -------------------------- 
+abastarde
+abastardeis
+abastardem
+abastardemos
+------------------------ cluster #58: -------------------------- 
+abastardásseis
+abastardássemos
+------------------------ cluster #59: -------------------------- 
+abastasse
+abastassem
+abastasses
+------------------------ cluster #60: -------------------------- 
+abaste
+abastecesses
+abastecêsseis
+abastecêssemos
+abasteis
+abastem
+abastemos
+abastes
+------------------------ cluster #61: -------------------------- 
+abastecer
+abastecerdes
+abastecerem
+abasteceres
+abastecermos
+------------------------ cluster #62: -------------------------- 
+abasteça
+abasteçais
+abasteçam
+abasteçamos
+abasteças
+------------------------ cluster #63: -------------------------- 
+abata
+abatais
+abatam
+abatamos
+abatas
+------------------------ cluster #64: -------------------------- 
+abater
+abaterdes
+abaterem
+abateres
+abatermos
+------------------------ cluster #65: -------------------------- 
+abatesse
+abatessem
+abatesses
+------------------------ cluster #66: -------------------------- 
+abdicar
+abdicardes
+abdicarem
+abdicares
+abdicarmos
+------------------------ cluster #67: -------------------------- 
+abdicasse
+abdicassem
+abdicasses
+abdicásseis
+abdicássemos
+------------------------ cluster #68: -------------------------- 
+abdique
+abdiqueis
+abdiquem
+abdiquemos
+abdiques
+------------------------ cluster #69: -------------------------- 
+abduza
+abduzais
+abduzam
+abduzamos
+abduzas
+------------------------ cluster #70: -------------------------- 
+abduzir
+abduzirdes
+abduzirem
+abduzires
+abduzirmos
+------------------------ cluster #71: -------------------------- 
+abduzisse
+abduzissem
+abduzisses
+------------------------ cluster #72: -------------------------- 
+abduzísseis
+abduzíssemos
+------------------------ cluster #73: -------------------------- 
+abençoar
+abençoardes
+abençoarem
+abençoares
+abençoarmos
+------------------------ cluster #74: -------------------------- 
+abençoasse
+abençoassem
+abençoasses
+abençoásseis
+abençoássemos
+------------------------ cluster #75: -------------------------- 
+abençoe
+abençoeis
+abençoem
+abençoemos
+abençoes
+------------------------ cluster #76: -------------------------- 
+aberrar
+aberrardes
+aberrarem
+aberrares
+aberrarmos
+------------------------ cluster #77: -------------------------- 
+aberrasse
+aberrassem
+aberrasses
+------------------------ cluster #78: -------------------------- 
+aberre
+aberreis
+aberrem
+aberremos
+aberres
+------------------------ cluster #79: -------------------------- 
+abespinhar
+abespinhardes
+abespinharem
+abespinhares
+abespinharmos
+------------------------ cluster #80: -------------------------- 
+abespinhasse
+abespinhassem
+abespinhasses
+abespinhásseis
+abespinhássemos
+------------------------ cluster #81: -------------------------- 
+abespinhe
+abespinheis
+abespinhem
+abespinhemos
+abespinhes
+------------------------ cluster #82: -------------------------- 
+abicar
+abicardes
+abicarem
+abicares
+abicarmos
+------------------------ cluster #83: -------------------------- 
+abicasse
+abicassem
+abicasses
+------------------------ cluster #84: -------------------------- 
+abique
+abiqueis
+abiquem
+abiquemos
+abiques
+------------------------ cluster #85: -------------------------- 
+abirritar
+abirritardes
+abirritarem
+abirritares
+abirritarmos
+------------------------ cluster #86: -------------------------- 
+abirritasse
+abirritassem
+abirritasses
+------------------------ cluster #87: -------------------------- 
+abirrite
+abirriteis
+abirritem
+abirritemos
+abirrites
+------------------------ cluster #88: -------------------------- 
+abismar
+abismardes
+abismarem
+abismares
+abismarmos
+------------------------ cluster #89: -------------------------- 
+abismasse
+abismassem
+abismasses
+abismásseis
+abismássemos
+------------------------ cluster #90: -------------------------- 
+abisme
+abismeis
+abismem
+abismemos
+abismes
+------------------------ cluster #91: -------------------------- 
+abjurar
+abjurardes
+abjurarem
+abjurares
+abjurarmos
+------------------------ cluster #92: -------------------------- 
+abjurasse
+abjurassem
+abjurasses
+------------------------ cluster #93: -------------------------- 
+abjure
+abjureis
+abjurem
+abjuremos
+abjures
+------------------------ cluster #94: -------------------------- 
+ablaquear
+ablaqueardes
+ablaquearem
+ablaqueares
+ablaquearmos
+------------------------ cluster #95: -------------------------- 
+ablaqueasse
+ablaqueassem
+ablaqueasses
+ablaqueeis
+ablaqueemos
+------------------------ cluster #96: -------------------------- 
+ablaqueie

@@ -1,0 +1,78 @@
+-------- 0.1 -------------
+ -- FILE RESULT --
+unique construction types (c): 1403
+total number of constructions: 196563
+average construction length: 4.513898788310763
+average number of construction per compound: 3.2793293293293293
+-------- 0.5 -------------
+ -- FILE RESULT --
+unique construction types (c): 5744
+total number of constructions: 139376
+average construction length: 6.328342618384401
+average number of construction per compound: 2.3252585919252584
+-------- 0.6 -------------
+ -- FILE RESULT --
+unique construction types (c): 6737
+total number of constructions: 132960
+average construction length: 6.7648805106130325
+average number of construction per compound: 2.2182182182182184
+-------- 0.7 -------------
+ -- FILE RESULT --
+unique construction types (c): 8534
+total number of constructions: 126707
+average construction length: 7.13030232013124
+average number of construction per compound: 2.1138972305638974
+-------- 0.8 -------------
+ -- FILE RESULT --
+unique construction types (c): 8587
+total number of constructions: 127632
+average construction length: 7.271107488063351
+average number of construction per compound: 2.1293293293293294
+-------- 0.9 -------------
+ -- FILE RESULT --
+unique construction types (c): 9477
+total number of constructions: 121404
+average construction length: 7.296929408040519
+average number of construction per compound: 2.0254254254254254
+-------- 1.0 -------------
+ -- FILE RESULT --
+unique construction types (c): 12201
+total number of constructions: 114922
+average construction length: 7.4050487664945495
+average number of construction per compound: 1.9172839506172838
+-------- 1.1 -------------
+ -- FILE RESULT --
+unique construction types (c): 13100
+total number of constructions: 112898
+average construction length: 7.6585496183206105
+average number of construction per compound: 1.8835168501835169
+-------- 1.2 -------------
+ -- FILE RESULT --
+unique construction types (c): 13172
+total number of constructions: 112416
+average construction length: 7.615472213786821
+average number of construction per compound: 1.8754754754754754
+-------- 1.3 -------------
+ -- FILE RESULT --
+unique construction types (c): 12915
+total number of constructions: 112381
+average construction length: 7.525667828106853
+average number of construction per compound: 1.8748915582248915
+-------- 1.4 -------------
+ -- FILE RESULT --
+unique construction types (c): 14779
+total number of constructions: 110111
+average construction length: 7.870830232086068
+average number of construction per compound: 1.8370203536870204
+-------- 1.5 -------------
+ -- FILE RESULT --
+unique construction types (c): 14935
+total number of constructions: 109374
+average construction length: 7.9764312018747905
+average number of construction per compound: 1.8247247247247247
+-------- 2.0 -------------
+ -- FILE RESULT --
+unique construction types (c): 15619
+total number of constructions: 107232
+average construction length: 8.648953198028043
+average number of construction per compound: 1.788988988988989

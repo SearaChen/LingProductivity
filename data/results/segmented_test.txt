@@ -1,0 +1,462 @@
+# Output from Morfessor Baseline 2.0.5, 2018-10-16 11:26:51
+71994 1
+2 ab-reagir
+1 ab-reagir + des
+1 ab-reagir + em
+1 ab-reagir + es
+1 ab-reagir + mos
+2 ab-reagisse
+1 ab-reagisse + m
+1 ab-reagisse + s
+1 ab- + re + agísseis
+1 ab- + re + agíssemos
+2 ab-reaja
+1 ab-reaja + is
+1 ab-reaja + m
+1 ab-reaja + mos
+1 ab-reaja + s
+2 ab-rogar
+1 ab-rogar + des
+1 ab-rogar + em
+1 ab-rogar + es
+1 ab-rogar + mos
+2 ab-rogasse
+1 ab-rogasse + m
+1 ab-rogasse + s
+2 ab-rogue
+1 ab-rogue + is
+1 ab-rogue + m
+1 ab-rogue + mos
+1 ab-rogue + s
+1 ab- + rogásseis
+1 ab- + rogássemos
+2 abacharelar
+1 abacharelar + des
+1 abacharelar + em
+1 abacharelar + es
+1 abacharelar + mos
+2 abacharelasse
+1 abacharelasse + m
+1 abacharelasse + s
+2 abacharele
+1 abacharele + is
+1 abacharele + m
+1 abacharele + mos
+1 abacharele + s
+1 a + bacharel + ásseis
+1 a + bacharel + ássemos
+2 abacinar
+1 abacinar + des
+1 abacinar + em
+1 abacinar + es
+1 abacinar + mos
+2 abacin + asse
+1 abacin + assem
+1 abacin + asses
+2 abacine
+1 abacine + is
+1 abacine + m
+1 abacine + mos
+1 abacine + s
+1 abacin + ásseis
+1 abacin + ássemos
+2 abafar
+1 abafar + des
+1 abafar + em
+1 abafar + es
+1 abafar + mos
+2 abafasse
+1 abafasse + m
+1 abafasse + s
+2 abafe
+1 abafe + is
+1 abafe + m
+1 abafe + mos
+1 abafe + s
+1 abaf + ásseis
+1 abaf + ássemos
+2 abainhar
+1 abainhar + des
+1 abainhar + em
+1 abainhar + es
+1 abainhar + mos
+2 a + bainhasse
+1 a + bainhasse + m
+1 a + bainhasse + s
+2 abainhe
+1 abainhe + is
+1 abainhe + m
+1 abainhe + mos
+1 abainhe + s
+1 a + bainh + ásseis
+1 a + bainh + ássemos
+2 abaixar
+1 abaixar + des
+1 abaixar + em
+1 abaixar + es
+1 abaixar + mos
+2 a + baixasse
+1 a + baixasse + m
+1 a + baixasse + s
+2 abaixe
+1 abaixe + is
+1 abaixe + m
+1 abaixe + mos
+1 abaixe + s
+1 a + baix + ásseis
+1 a + baix + ássemos
+2 abalar
+1 abalar + des
+1 abalar + em
+1 abalar + es
+1 abalar + mos
+2 abalasse
+1 abalasse + m
+1 abalasse + s
+2 abale
+1 abale + is
+1 abale + m
+1 abale + mos
+1 abale + s
+2 abalienar
+1 abalienar + des
+1 abalienar + em
+1 abalienar + es
+1 abalienar + mos
+2 abalienasse
+1 abalienasse + m
+1 abalienasse + s
+2 abaliene
+1 abaliene + is
+1 abaliene + m
+1 abaliene + mos
+1 abaliene + s
+1 ab + alien + ásseis
+1 ab + alien + ássemos
+2 abalroar
+1 abalroar + des
+1 abalroar + em
+1 abalroar + es
+1 abalroar + mos
+2 abalroasse
+1 abalroasse + m
+1 abalroasse + s
+2 abalroe
+1 abalroe + is
+1 abalroe + m
+1 abalroe + mos
+1 abalroe + s
+1 abalro + ásseis
+1 abalro + ássemos
+1 ab + alásseis
+1 ab + alássemos
+2 abanar
+1 abanar + des
+1 abanar + em
+1 abanar + es
+1 abanar + mos
+2 aban + asse
+1 aban + assem
+1 aban + asses
+2 abandar
+1 abandar + des
+1 abandar + em
+1 abandar + es
+1 abandar + mos
+2 abandasse
+1 abandasse + m
+1 abandasse + s
+2 abande
+2 abandeirar
+1 abandeirar + des
+1 abandeirar + em
+1 abandeirar + es
+1 abandeirar + mos
+2 abandeirasse
+1 abandeirasse + m
+1 abandeirasse + s
+2 abandeire
+1 abandeire + is
+1 abandeire + m
+1 abandeire + mos
+1 abandeire + s
+1 abande + irásseis
+1 abande + irássemos
+1 abande + is
+1 abande + m
+1 abande + mos
+1 abande + s
+2 abandonar
+1 abandonar + des
+1 abandonar + em
+1 abandonar + es
+1 abandonar + mos
+2 abandon + asse
+1 abandon + assem
+1 abandon + asses
+2 abandone
+1 abandone + is
+1 abandone + m
+1 abandone + mos
+1 abandone + s
+1 abandon + ásseis
+1 abandon + ássemos
+1 ab + andásseis
+1 ab + andássemos
+2 abane
+1 abane + is
+1 abane + m
+1 abane + mos
+1 abane + s
+1 aban + ásseis
+1 aban + ássemos
+2 abarbar
+1 abarbar + des
+1 abarbar + em
+1 abarbar + es
+1 abarbar + mos
+2 abarb + asse
+1 abarb + assem
+1 abarb + asses
+2 abarbe
+1 abarbe + is
+1 abarbe + m
+1 abarbe + mos
+1 abarbe + s
+1 abarb + ásseis
+1 abarb + ássemos
+2 abarcar
+1 abarcar + des
+1 abarcar + em
+1 abarcar + es
+1 abarcar + mos
+2 abarc + asse
+1 abarc + assem
+1 abarc + asses
+1 abarc + ásseis
+1 abarc + ássemos
+2 abarque
+1 abarque + is
+1 abarque + m
+1 abarque + mos
+1 abarque + s
+2 abarrotar
+1 abarrotar + des
+1 abarrotar + em
+1 abarrotar + es
+1 abarrotar + mos
+2 abarrotasse
+1 abarrotasse + m
+1 abarrotasse + s
+2 abarrote
+1 abarrote + is
+1 abarrote + m
+1 abarrote + mos
+1 abarrote + s
+1 ab + arrot + ásseis
+1 ab + arrot + ássemos
+2 abastar
+2 abastardar
+1 abastardar + des
+1 abastardar + em
+1 abastardar + es
+1 abastardar + mos
+2 abastardasse
+1 abastardasse + m
+1 abastardasse + s
+2 abastarde
+1 abastarde + is
+1 abastarde + m
+1 abastarde + mos
+2 abastar + des
+1 abas + tard + ásseis
+1 abas + tard + ássemos
+1 abastar + em
+1 abastar + es
+1 abastar + mos
+2 abastasse
+1 abastasse + m
+1 abastasse + s
+2 abaste
+2 abastecer
+1 abastecer + des
+1 abastecer + em
+1 abastecer + es
+1 abastecer + mos
+2 a + bastecesse
+1 a + bastecesse + m
+1 abaste + cesses
+1 abaste + cêsseis
+1 abaste + cêssemos
+1 abaste + is
+1 abaste + m
+1 abaste + mos
+1 abaste + s
+2 abasteça
+1 abasteça + is
+1 abasteça + m
+1 abasteça + mos
+1 abasteça + s
+1 a + bast + ásseis
+1 a + bast + ássemos
+2 abata
+1 abata + is
+1 abata + m
+1 abata + mos
+1 abata + s
+2 abater
+1 abater + des
+1 abater + em
+1 abater + es
+1 abater + mos
+2 abatesse
+1 abatesse + m
+1 abatesse + s
+1 a + batêsseis
+1 a + batêssemos
+2 abdicar
+1 abdicar + des
+1 abdicar + em
+1 abdicar + es
+1 abdicar + mos
+2 abdic + asse
+1 abdic + assem
+1 abdic + asses
+1 abdic + ásseis
+1 abdic + ássemos
+2 abdique
+1 abdique + is
+1 abdique + m
+1 abdique + mos
+1 abdique + s
+2 abduza
+1 abduza + is
+1 abduza + m
+1 abduza + mos
+1 abduza + s
+2 abduzir
+1 abduzir + des
+1 abduzir + em
+1 abduzir + es
+1 abduzir + mos
+2 abduzisse
+1 abduzisse + m
+1 abduzisse + s
+1 abduzísse + is
+1 abduzísse + mos
+2 abençoar
+1 abençoar + des
+1 abençoar + em
+1 abençoar + es
+1 abençoar + mos
+2 abenço + asse
+1 abenço + assem
+1 abenço + asses
+2 abençoe
+1 abençoe + is
+1 abençoe + m
+1 abençoe + mos
+1 abençoe + s
+1 abenço + ásseis
+1 abenço + ássemos
+2 aberrar
+1 aberrar + des
+1 aberrar + em
+1 aberrar + es
+1 aberrar + mos
+2 aberrasse
+1 aberrasse + m
+1 aberrasse + s
+2 aberre
+1 aberre + is
+1 aberre + m
+1 aberre + mos
+1 aberre + s
+1 a + berr + ásseis
+1 a + berr + ássemos
+2 abespinhar
+1 abespinhar + des
+1 abespinhar + em
+1 abespinhar + es
+1 abespinhar + mos
+2 abespinh + asse
+1 abespinh + assem
+1 abespinh + asses
+2 abespinhe
+1 abespinhe + is
+1 abespinhe + m
+1 abespinhe + mos
+1 abespinhe + s
+1 abespinh + ásseis
+1 abespinh + ássemos
+2 abicar
+1 abicar + des
+1 abicar + em
+1 abicar + es
+1 abicar + mos
+2 abicasse
+1 abicasse + m
+1 abicasse + s
+1 ab + icásseis
+1 ab + icássemos
+2 abique
+1 abique + is
+1 abique + m
+1 abique + mos
+1 abique + s
+2 abirritar
+1 abirritar + des
+1 abirritar + em
+1 abirritar + es
+1 abirritar + mos
+2 abirritasse
+1 abirritasse + m
+1 abirritasse + s
+2 abirrite
+1 abirrite + is
+1 abirrite + m
+1 abirrite + mos
+1 abirrite + s
+1 ab + irrit + ásseis
+1 ab + irrit + ássemos
+2 abismar
+1 abismar + des
+1 abismar + em
+1 abismar + es
+1 abismar + mos
+2 abism + asse
+1 abism + assem
+1 abism + asses
+2 abisme
+1 abisme + is
+1 abisme + m
+1 abisme + mos
+1 abisme + s
+1 abism + ásseis
+1 abism + ássemos
+2 abjurar
+1 abjurar + des
+1 abjurar + em
+1 abjurar + es
+1 abjurar + mos
+2 abjurasse
+1 abjurasse + m
+1 abjurasse + s
+2 abjure
+1 abjure + is
+1 abjure + m
+1 abjure + mos
+1 abjure + s
+1 ab + jur + ásseis
+1 ab + jur + ássemos
+2 ablaquear
+1 ablaquear + des
+1 ablaquear + em
+1 ablaquear + es
+1 ablaquear + mos
+2 ablaque + asse
+1 ablaque + assem
+1 ablaque + asses
+1 ablaque + eis
+1 ablaque + emos
+2 ablaqueie
