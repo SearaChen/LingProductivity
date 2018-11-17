@@ -117,14 +117,19 @@ def graph(Z):
 	ch.dendrogram(
 	    Z,
 	    truncate_mode='level',  # show only the last p merged clusters,  option: "lastp", "level"
-	    p=5,  # show only the last p merged clusters
+	    p=2,  # show only the last p merged clusters
 	    #leaf_rotation=90.,
 	    leaf_font_size=12.,
 	    show_contracted=True,  # to get a distribution impression in truncated branches
 	)
+	"""
+	lastp : The last p non-singleton clusters formed in the linkage are the only non-leaf nodes in the linkage
+	level : No more than p levels of the dendrogram tree are displayed. A “level” includes all nodes with p merges from the last merge
+	"""
 	ch.set_link_color_palette(['m', 'c', 'y', 'k'])
-	plt.show()
-
+	#plt.show()
+	plt.savefig("/Users/Seara/Desktop/COMP400Project/data/results/cluster/graph.png")
+	#plt.close()
 
 def fCluster(Z):
 	"""
@@ -136,7 +141,7 @@ def fCluster(Z):
 	clusters = ch.fcluster(Z, max_d, criterion='distance')
 
 
-def clustersToFile(cluster_dict, resultFileName = ""):
+def clustersToFile(cluster_dict, resultFileName = "", print_cluster_info = True):
 	"""
 	writing the cluster dictionary to a file for readability
 	"""
@@ -159,31 +164,39 @@ def clustersToFile(cluster_dict, resultFileName = ""):
 				sys.exit()
 
 			f.write(b'\n')
+			if print_cluster_info:
+				print("cluster #" + str(index) + ": " + str(len(cluster_dict[key])))
 	f.close()
 
 
+
+
 if __name__ == '__main__':
-	#filepath = "/Users/Seara/Desktop/COMP400Project/data/results/portugese_SBJV_segmented_1.0.txt"
-	filepath = "/Users/Seara/Desktop/COMP400Project/data/results/segmented_test.txt"
+	filepath = "/Users/Seara/Desktop/COMP400Project/data/results/portugese_SBJV_segmented_1.0.txt"
+	#filepath = "/Users/Seara/Desktop/COMP400Project/data/results/segmented_test.txt"
 	print("Encoding dataset ...")
 	original_data_set, X=encodingDataSet(filepath)
 
 	print("Performing linkage ...")
 	Z= ch.linkage(X,
-			method='complete', 
+			method='single',  # completeL 0.18 ; average : 0. 3575; minimum: 0.4570 ;
 			metric=distanceLev, 
 			optimal_ordering=False)
 
-	#graph(Z)
+	graph(Z)
 
 	# check cophenetic distance
 	print ("Computing choph distance...")
 	Y = pdist(X, distanceLev);
 	c, coph_dists = ch.cophenet(Z, Y) # Cophenetic Correlation Coefficient  
 	print(c)
-
+	
 	# retrieve clustering 
-	cut_tree = ch.cut_tree(Z, height=3)
+	cut_tree = ch.cut_tree(Z, n_clusters=5)
+	"""
+	height : array_like,The height at which to cut the tree. Only possible for ultrametric trees.
+	n_clusters : array_like, optional : Number of clusters in the tree at the cut point.
+	"""
 	cut_tree = np.array(cut_tree).flatten()
 	cluster_dict = {} # key: cluster code; value: original entry
 	for i in range(cut_tree.shape[0]):
@@ -195,3 +208,7 @@ if __name__ == '__main__':
 	# write to file
 	cluster_result_filename = "/Users/Seara/Desktop/COMP400Project/data/results/cluster/cluster_portugese_SBJV_segmented_1.0.txt"
 	clustersToFile(cluster_dict, resultFileName = cluster_result_filename)
+	for index, key in enumerate(cluster_dict.keys()):
+		print("cluster #" + str(index) + ": " + str(len(cluster_dict[key])))
+		print (cluster_dict[key])
+
